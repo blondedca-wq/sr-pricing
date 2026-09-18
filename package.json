@@ -1,0 +1,13 @@
+{
+  "name": "sr-pricing",
+  "version": "2.0.0",
+  "private": true,
+  "description": "SecondRing shared pricing engine + the Photo -> Quote runner. No AI, no dependencies.",
+  "main": "pricing-engine.js",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "test": "node engine-tests.js",
+    "conformance": "node conformance.js --all",
+    "price": "node price.js"
+  }
+}
