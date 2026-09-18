@@ -37,7 +37,7 @@ price list. No match → no number.
 | `lib.js` | The only file that talks to anything (Supabase REST with the service key). |
 | `sql/b3-sql-determinism-fix-2.sql` | Three latent bugs the conformance matrix found in the live functions. No existing number changes. |
 | `sql/b3-pricing-wiring.sql` | `sr_save_priced_quote`, `sr_quote_apply_decision`, `sr_pricing_conformance_log`, two console views, two columns on `scope_drafts`. Additive. |
-| `dev/` | Differential fuzz and end-to-end tests against a throwaway local Postgres. Never the live project. |
+| `dev/` *(not in this repo)* | Differential fuzz and end-to-end tests against a throwaway local Postgres. Kept out of the public repo on purpose: they ship with a stub of the production schema. They live in the SecondRing Vault (`Day 19/sr-pricing/dev/`). Sep 18 2026 results: 34,000/34,000 identical · 63/63 end to end. |
 | `fixtures/` | The two **demo** price lists (Fennwick, Grand River — fictional, MODELLED) and the eight Day 2 stand-in scopes. |
 
 ## Inside / outside the rules
