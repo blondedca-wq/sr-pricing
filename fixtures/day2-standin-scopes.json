@@ -1,0 +1,314 @@
+{
+ "_note": "The eight Day 2 stand-in scope drafts (web photos, tenant Grand River Mechanical, created_by day2-web-standin).",
+ "drafts": [
+  {
+   "id": "5cf86501-9acc-42a5-85bd-5417cc860869",
+   "file_id": "a3247deb-3311-417d-bea6-0ddcef83e2b2",
+   "job_id": null,
+   "contact_id": null,
+   "item_type": "gas water heater",
+   "ai_confidence": 0.72,
+   "ai_model": "claude-standin",
+   "usable": true,
+   "scope": {
+    "access": "open basement corner, good clearance, single-person accessible",
+    "hazards": [
+     "gas line",
+     "flue / combustion venting"
+    ],
+    "quantity": 1,
+    "condition": "about 10 years old, light surface staining, standard wear, still standing",
+    "item_type": "gas water heater",
+    "materials": [
+     "copper flex connectors",
+     "gas line",
+     "T&P valve + discharge",
+     "expansion tank",
+     "flue"
+    ],
+    "confidence": 0.72,
+    "dimensions": {
+     "height_in_est": 58,
+     "capacity_gal_est": 40
+    },
+    "quote_hints": {
+     "emergency": false,
+     "likely_line_items": [
+      "water_heater_replacement_40gal"
+     ]
+    },
+    "missing_info": [
+     "exact capacity/BTU label not readable"
+    ],
+    "category_hint": "water_heater_replacement_40gal",
+    "needs_more_photos": false,
+    "measurements_visible": true
+   }
+  },
+  {
+   "id": "a5809ed6-6c6a-433f-9ec0-44ee60476569",
+   "file_id": "66108429-9765-43fd-a5a1-51230eb3eb17",
+   "job_id": null,
+   "contact_id": null,
+   "item_type": "gas water heater",
+   "ai_confidence": 0.62,
+   "ai_model": "claude-standin",
+   "usable": true,
+   "scope": {
+    "access": "tight mechanical area beside the furnace, low overhead, two-person carry, basement stairs",
+    "hazards": [
+     "gas line",
+     "confined / low-clearance space"
+    ],
+    "quantity": 1,
+    "condition": "older unit, some rust at base, functional",
+    "item_type": "gas water heater",
+    "materials": [
+     "gas line",
+     "copper lines"
+    ],
+    "confidence": 0.62,
+    "dimensions": {
+     "capacity_gal_est": 40
+    },
+    "quote_hints": {
+     "emergency": false,
+     "likely_line_items": [
+      "water_heater_replacement_40gal"
+     ]
+    },
+    "missing_info": [
+     "clear shot of the shutoffs and connections"
+    ],
+    "category_hint": "water_heater_replacement_40gal",
+    "needs_more_photos": false,
+    "measurements_visible": false
+   }
+  },
+  {
+   "id": "6c38ec24-d274-4741-8bd5-89ffc3523dfa",
+   "file_id": "b99c5f05-88ea-42ca-bde1-6ab5850abd06",
+   "job_id": null,
+   "contact_id": null,
+   "item_type": "electrical panel (Federal Pacific Stab-Lok)",
+   "ai_confidence": 0.78,
+   "ai_model": "claude-standin",
+   "usable": true,
+   "scope": {
+    "access": "wall-mounted, cover removed, accessible",
+    "hazards": [
+     "live electrical",
+     "FPE Stab-Lok fire risk"
+    ],
+    "quantity": 1,
+    "condition": "obsolete Federal Pacific Stab-Lok load centre — known fire hazard, full replacement recommended",
+    "item_type": "electrical panel (Federal Pacific Stab-Lok)",
+    "materials": [
+     "FPE Stab-Lok breakers",
+     "service feeders"
+    ],
+    "confidence": 0.78,
+    "dimensions": {
+     "breaker_spaces_est": 20
+    },
+    "quote_hints": {
+     "emergency": false,
+     "likely_line_items": [
+      "electrical_panel_replacement"
+     ]
+    },
+    "missing_info": [
+     "main service amperage"
+    ],
+    "category_hint": "electrical_panel_replacement",
+    "needs_more_photos": false,
+    "measurements_visible": true
+   }
+  },
+  {
+   "id": "cd548eef-2000-4b60-a538-ac171f9bb2e8",
+   "file_id": "fa7746be-a528-4e87-969f-3501b2130e86",
+   "job_id": null,
+   "contact_id": null,
+   "item_type": "electrical panel",
+   "ai_confidence": 0.5,
+   "ai_model": "claude-standin",
+   "usable": false,
+   "scope": {
+    "access": "wall-mounted",
+    "hazards": [
+     "live electrical"
+    ],
+    "quantity": 1,
+    "condition": "panel open, wiring visible; brand, amperage and scope not confirmable from this angle",
+    "item_type": "electrical panel",
+    "materials": [
+     "breakers",
+     "branch wiring"
+    ],
+    "confidence": 0.5,
+    "dimensions": {},
+    "quote_hints": {
+     "emergency": false,
+     "likely_line_items": []
+    },
+    "missing_info": [
+     "panel label / brand",
+     "service size",
+     "reason for the call"
+    ],
+    "category_hint": "electrical_panel",
+    "needs_more_photos": true,
+    "measurements_visible": false
+   }
+  },
+  {
+   "id": "ea12446c-7779-4662-983f-33c273ac1fae",
+   "file_id": "e0b7e370-c4c4-4638-a7b0-7a7ba0463a0c",
+   "job_id": null,
+   "contact_id": null,
+   "item_type": "asphalt shingle roof — missing shingles",
+   "ai_confidence": 0.5,
+   "ai_model": "claude-standin",
+   "usable": false,
+   "scope": {
+    "access": "roof — pitch and height not assessable from this frame",
+    "hazards": [
+     "height / fall"
+    ],
+    "quantity": 1,
+    "condition": "a section of shingles missing, underlayment exposed",
+    "item_type": "asphalt shingle roof — missing shingles",
+    "materials": [
+     "asphalt shingles",
+     "underlayment"
+    ],
+    "confidence": 0.5,
+    "dimensions": {},
+    "quote_hints": {
+     "emergency": false,
+     "likely_line_items": [
+      "roof_shingle_repair"
+     ]
+    },
+    "missing_info": [
+     "damaged area size",
+     "roof pitch",
+     "number of layers"
+    ],
+    "category_hint": "roof_shingle_repair",
+    "needs_more_photos": true,
+    "measurements_visible": false
+   }
+  },
+  {
+   "id": "27603020-de16-4cdd-8414-b7eea3afcf27",
+   "file_id": "b64c3135-c3a5-4973-9f2d-285101005cdc",
+   "job_id": null,
+   "contact_id": null,
+   "item_type": "corroded P-trap / sink drain",
+   "ai_confidence": 0.68,
+   "ai_model": "claude-standin",
+   "usable": true,
+   "scope": {
+    "access": "under-sink cabinet, tight but standard reach",
+    "hazards": [],
+    "quantity": 1,
+    "condition": "heavily corroded, likely active leak, needs replacement",
+    "item_type": "corroded P-trap / sink drain",
+    "materials": [
+     "chrome/metal P-trap",
+     "tailpiece",
+     "slip nuts"
+    ],
+    "confidence": 0.68,
+    "dimensions": {
+     "pipe_diameter_in": 1.5
+    },
+    "quote_hints": {
+     "emergency": false,
+     "likely_line_items": [
+      "faucet_replacement",
+      "drain_cleaning_auger"
+     ]
+    },
+    "missing_info": [
+     "whether the tailpiece / trap arm also need replacing"
+    ],
+    "category_hint": "trap_replacement",
+    "needs_more_photos": false,
+    "measurements_visible": true
+   }
+  },
+  {
+   "id": "7f501086-6dd0-4e51-ace4-94e0640a2518",
+   "file_id": "6c8511da-c990-45ab-ac98-9b5b1e549581",
+   "job_id": null,
+   "contact_id": null,
+   "item_type": "sink trap diagram (not a real job photo)",
+   "ai_confidence": 0.3,
+   "ai_model": "claude-standin",
+   "usable": false,
+   "scope": {
+    "access": "",
+    "hazards": [],
+    "quantity": null,
+    "condition": "",
+    "item_type": "sink trap diagram (not a real job photo)",
+    "materials": [],
+    "confidence": 0.3,
+    "dimensions": {},
+    "quote_hints": {
+     "emergency": false,
+     "likely_line_items": []
+    },
+    "missing_info": [
+     "this is an illustration, not a photo of an actual installation"
+    ],
+    "category_hint": null,
+    "needs_more_photos": true,
+    "measurements_visible": false
+   }
+  },
+  {
+   "id": "06fd80b9-2ac1-4101-91ce-746a023651b9",
+   "file_id": "f414d9f6-3d9e-4797-b2a6-99462eeedd58",
+   "job_id": null,
+   "contact_id": null,
+   "item_type": "gas furnace",
+   "ai_confidence": 0.66,
+   "ai_model": "claude-standin",
+   "usable": true,
+   "scope": {
+    "access": "basement mechanical area, tight, down basement stairs",
+    "hazards": [
+     "gas",
+     "possible cracked heat exchanger / CO risk"
+    ],
+    "quantity": 1,
+    "condition": "heavily rusted cabinet, old unit, strong replacement candidate",
+    "item_type": "gas furnace",
+    "materials": [
+     "gas furnace cabinet",
+     "supply/return ductwork",
+     "flue"
+    ],
+    "confidence": 0.66,
+    "dimensions": {},
+    "quote_hints": {
+     "emergency": false,
+     "likely_line_items": [
+      "furnace_replacement"
+     ]
+    },
+    "missing_info": [
+     "model/BTU plate",
+     "confirmation of heat-exchanger condition"
+    ],
+    "category_hint": "furnace_replacement",
+    "needs_more_photos": false,
+    "measurements_visible": false
+   }
+  }
+ ]
+}
